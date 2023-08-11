@@ -4,7 +4,7 @@ a local ohrc image has been loaded in Check_for_Intersection.ipynb,
 but you can use any ohrc image of your choice
 
 ## LR_HR_Pair_Generation.ipynb
-takes a tmc image, and the csv file of an ohrc image, and gives the coordinates within the tmc image which correspond to the ohrc image.
+takes a tmc image, and the csv file of an ohrc image, and gives the coordinates within the tmc image which corresponds to the ohrc image.
 
 ## tmc_image_access_using_csv_pixels.ipynb
 plot the region of tmc image corresponding to ohrc image
