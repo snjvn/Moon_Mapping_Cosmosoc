@@ -122,7 +122,7 @@ class Discriminator(object):
         model = discriminator_block(model, 512, 3, 2)
         
         model = Flatten()(model)
-        model = Dense(1024)(model)
+        model = Dense(512)(model)
         model = LeakyReLU(alpha = 0.2)(model)
        
         model = Dense(1)(model)
