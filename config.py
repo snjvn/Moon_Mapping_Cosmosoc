@@ -18,13 +18,13 @@ config.TRAIN.lr_decay = 0.1
 config.TRAIN.decay_every = int(config.TRAIN.n_epoch / 2)
 
 ## train set location
-config.TRAIN.hr_img_path = '/media/ubuntu/disk/SRGAN-master/ohrc_final_final/y_train'
-config.TRAIN.lr_img_path = '/media/ubuntu/disk/SRGAN-master/resized_cropped_tmc/X_train'
+config.TRAIN.hr_img_path = '/media/ubuntu/disk/SRGAN-master/ohrc_final_final/y_train/patches'
+config.TRAIN.lr_img_path = '/media/ubuntu/disk/SRGAN-master/resized_cropped_tmc/X_train/patches'
 
 config.VALID = edict()
 ## test set location
-config.VALID.hr_img_path = '/media/ubuntu/disk/SRGAN-master/ohrc_final_final/y_test'
-config.VALID.lr_img_path = '/media/ubuntu/disk/SRGAN-master/resized_cropped_tmc/X_test'
+config.VALID.hr_img_path = '/media/ubuntu/disk/SRGAN-master/ohrc_final_final/y_test/patches'
+config.VALID.lr_img_path = '/media/ubuntu/disk/SRGAN-master/resized_cropped_tmc/X_test/patches'
 
 def log_config(filename, cfg):
     with open(filename, 'w') as f:
