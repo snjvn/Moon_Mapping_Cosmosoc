@@ -9,7 +9,7 @@ For low resolution images- TMC-2
 For High Resolution Images- OHRC
 
 Dataset: 
-TMC-2 - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=tmc2
+TMC-2 - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=tmc2  
 OHRC - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=ohrc
 
 
