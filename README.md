@@ -12,7 +12,8 @@ Dataset:
 TMC-2 - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=tmc2  
 OHRC - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=ohrc
 
-Files: 
+Files: This section contains a brief discription of the files used in the project:
+[1] Check_for_Intersection.ipynb- This file contains a basic code for checking the overlapping intersections between TMC-2 and OHRC images and classifying them in separate folders namely ohrc and tmc_crop. Ohrc folder contains the images in ohrc that have a overlap with some image in TMC-2. tmc_crop contains the cropped TMC-2 images i.e that they are the low resolution overlapping region
 
 
 
