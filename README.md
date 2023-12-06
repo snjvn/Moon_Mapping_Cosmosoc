@@ -4,7 +4,7 @@ Cosmosoc, The Space Data Science Club, IIT Dharwad
 Problem:
 **Development of an AI/ML model to generate high (~30 cm) resolution
 lunar terrain image from medium/low (5 m / 10 m) resolution terrain image.**
-The following 2 payloads are used for the project
+The following 2 payloads are used for the project  
 For low resolution images- TMC-2
 For High Resolution Images- OHRC
 
