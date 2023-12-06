@@ -4,8 +4,14 @@ Cosmosoc, The Space Data Science Club, IIT Dharwad
 Problem:
 **Development of an AI/ML model to generate high (~30 cm) resolution
 lunar terrain image from medium/low (5 m / 10 m) resolution terrain image.**
+The following 2 payloads are used for the project
+For low resolution images- TMC-2
+For High Resolution Images- OHRC
 
-TMC-2 has covered 80% of the Moon's Surface however the resolution of images are very low (~5m ). OHRC has nearly 20% of the surface covered with a very high resolution of images(~ 28cm)
+Dataset: 
+TMC-2 - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=tmc2
+OHRC - https://pradan.issdc.gov.in/ch2/protected/browse.xhtml?id=ohrc
+
 
 ### Reference
 * [1] [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
